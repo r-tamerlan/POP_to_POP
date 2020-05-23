@@ -1,0 +1,92 @@
+body {
+    background: #FFF5EE;
+}
+
+.balon1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: darkorange;
+    float: left;
+}
+
+.balon2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(255, 0, 212);
+    float: left;
+}
+
+.balon3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(43, 255, 0);
+    float: left;
+}
+
+.balon4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(255, 0, 191);
+    float: left;
+}
+
+.balon5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(255, 0, 0);
+    float: left;
+}
+
+.balon6 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(0, 110, 255);
+    float: left;
+}
+
+.balon7 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgb(200, 255, 0);
+    float: left;
+}
+
+.gvd {
+    width: 300px;
+    height: 300px;
+    margin: 200px auto;
+}
+
+.basliq {
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    font: bold 24px tahoma;
+    color: darkslategray;
+}
+
+.divv {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+#pop-1,
+#pop-2,
+#pop-3,
+#pop-4,
+#pop-5,
+#pop-6 {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: darkslategray;
+}
